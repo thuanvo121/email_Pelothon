@@ -1,0 +1,153 @@
+<mjml>
+  <mj-head>
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+      <mj-attributes>
+      <mj-text font-family="Roboto, san-serif" font-size="16px" color="black" line-height="28px"/>
+      <mj-image padding="0px"/>
+      <mj-section padding="0px" background-color="white">
+      </mj-attributes>
+          <mj-style inline="inline">
+      .link-nostyle { color: inherit; text-decoration: none }
+    </mj-style>
+    <mj-style>
+        @media (max-width:480px){
+            .text-title{
+                font-size:35px; line-height:50px; letter-spacing:5px;
+            }
+        }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+  <mj-section background-color="black">
+  <mj-column width="600px">
+      <mj-text color="white" font-size="15px" font-weight="300" line-height="21px" align="center">
+          Try the Peloton Bike, Bike+ or Tread at home and risk free for 30 days. If you change your mind, we’ll come pick it up for a full refund. <a class="link-nostyle" style="color:red;" target="_blank" href="http://www.google.com">SHOP NOW</a>
+      </mj-text>
+  </mj-section>
+  </mj-column>
+      <!-- logo -->
+      <mj-section>
+      <mj-column width="600px">
+          <mj-image href="https://www.cloudkettle.com/" padding="20px" width="346px" src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/5ee3a8ae9d22c-1591978158.6436.png" alt="logo" />
+      </mj-column>
+      </mj-section>
+      <!-- img header -->
+      <mj-section>
+      <mj-column width="600px">
+          <mj-image width="550px" src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/61f99887b5010-1643747463.7414.png" alt="Tap into Motivation" />
+          <mj-text text-transform="uppercase" font-weight="1000" font-size="60px" letter-spacing="8px" align="left" line-height="70px"> 
+              <div class="text-title">Tap into <br> Motivation</div>
+          </mj-text>
+      </mj-column>
+      </mj-section>
+      <!-- info section -->
+      <mj-section>
+    <mj-column width="600px">
+        <mj-text align="center">
+            Bring home the Peloton Bike, Bike+ or Tread and find a workout that fits your mood, music taste and schedule. You’ll discover new ways to move and motivation that’ll keep you coming back for more.
+        </mj-text>
+        <mj-button padding-bottom="35px" href="https://www.google.com" height="32px" width="150px" background-color="#D00C2A" font-size="15px" >
+            SHOP NOW
+        </mj-button>
+    </mj-column>
+      </mj-section>
+      <!-- product1 section -->
+      <mj-section>
+    <mj-column width="300px">
+        <mj-image src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/61f9971888660-1643747096.5587.png" alt="The Pelothon Bike+" />
+    </mj-column>
+    <mj-column padding-left="5px" width="300px" background-color="#F5F7F9">
+        <mj-text padding-top="50px" font-size="24px" font-weight="300" >
+            The Peloton Bike+
+        </mj-text>
+        <mj-text font-weight="300" line-height="24px">
+            Round up your routine on the Bike+. Effortlessly switch from cardio to strength, yoga and more with a rotating screen powered by immersive technology.
+        </mj-text>
+        <mj-text color="#df1c2f" letter-spacing="3px" font-weight="700" line-height="24px" padding-bottom="55px">
+            <a href="https://www.google.com/" target="_blank" class="link-nostyle">ORDER BIKE+
+        </mj-text>
+    </mj-column>
+      </mj-section>
+      <!-- product2 section -->
+      <mj-section>
+    <mj-column padding-left="5px" width="300px" background-color="#F5F7F9">
+        <mj-text padding-top="50px" font-size="24px" font-weight="300" >
+            The Peloton Tread
+        </mj-text>
+        <mj-text font-weight="300" line-height="24px">
+            Run, lift and train in a variety of classes designed for the perfect total-body workout.
+        </mj-text>
+        <mj-text color="#df1c2f" letter-spacing="3px" font-weight="700" line-height="24px" padding-bottom="85px">
+            <a href="https://www.google.com/" target="_blank" class="link-nostyle">EXPLORE TREAD
+        </mj-text>
+    </mj-column>
+    <mj-column width="300px">
+        <mj-image src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/61f99726e8bee-1643747110.9533.png" alt="The Peloton Treat" />
+    </mj-column>
+      </mj-section>
+      <!-- product recap section -->
+      <mj-section padding-top="30px">
+      <mj-column width="600px">
+      <mj-image width="550px" src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/61f99b4e57358-1643748174.3572.png" alt="" />
+      <mj-text align="center" font-weight="300">
+          Get the original Peloton Bike, starting at <b>$45/month</b><br>
+the Bike+ for <b>$59/month</b> or the Tread at <b>$67/month</b><br>
+All-Access Membership separate.
+      </mj-text>
+      <mj-text color="#df1c2f" text-transform="uppercase" font-weight="700" font-size="14px" align="center" letter-spacing="3px">
+          <a href="#" target="_blank" class="link-nostyle">Explore Financing</a>
+      </mj-text>
+      </mj-column>
+      </mj-section>
+<!-- disclaimer -->
+<mj-section>
+<mj-column width="600px">
+    <mj-text padding-left="30px" padding-right="30px"font-size="13px" font-weight="300" line-height="20px" color="#65666a">
+        
+1. Offer allows purchasers to try their first new Peloton Bike, Bike+ or Tread risk free for 30 days. Terms apply. Remote areas are not eligible. Visit https://www.onepeloton.com/home-trial to learn more.<br>
+
+2. Get the Peloton Bike for as low as $45/mo over 39 months at 0% APR. Based on a full price of $1,495 + $250 delivery. Peloton Bike+ ($2,495) starts at $59/month for 43 months at 0% APR. Accessories and taxes separate. Not available outside the U.S. Delivery restrictions apply. Additional delivery fees may apply outside of the continental U.S. Void where prohibited. A down payment may be required. Payment options through Affirm are provided by these lending partners: affirm.com/lenders. See www.affirm.com/faqs for details.<br>
+
+3. Get the Peloton Tread for as low as $67/mo over 43 months at 0% APR. Based on a full price of $2,495 + $350 delivery. Peloton All-Access Membership ($39/mo), accessories and taxes separate. Not available outside the U.S. Delivery restrictions apply. Additional delivery fees may apply outside of the continental U.S. Subject to credit check and approval. A down payment may be required. Payment options through Affirm are provided by these lending partners: affirm.com/lenders. See www.affirm.com/faqs for details.
+    </mj-text>
+</mj-column>
+</mj-section>
+<!-- CTA section -->
+<mj-section border-top="1px solid black" border-bottom="1px solid black">
+<mj-column width="300px">
+    <mj-image width="64px" src="https://www.emailimagecdnrvf6.com/uybj8opkts/en_us/images/5f1334bb32b4e-1595094203.2077.png" alt="BIKE" />
+    <mj-text font-size="13px" font-weight="700" color="#65666A" text-decoration="underline" align="center" letter-spacing="2px">
+        <a href="http://www.google.com" target="_blank" class="link-nostyle">SHOP BIKE
+    </mj-text>
+</mj-column>
+<mj-column border-left="1px dash black" width="300px">
+    <mj-image width="64px" src="https://www.emailimagecdnrvf6.com/6klu8yh3m7/en_us/images/5f44191ff2ae4-1598298399.994.png" alt="HOME" />
+    <mj-text font-size="13px"font-weight="700" color="#65666A" text-decoration="underline" align="center" letter-spacing="2px">
+        <a href="http://www.google.com" target="_blank" class="link-nostyle">TRY FOR 30 DAYS
+    </mj-text>
+</mj-column>
+</mj-section>
+<!-- APP section -->
+<mj-section padding-top="30px">
+<mj-column width="200px">
+<mj-image  width="160px" href="#" src="https://www.emailimagecdnrvf6.com/uybj8opkts/en_us/images/5f12f96e4c8df-1595079022.3136.png" alt="Download Apple Store" />
+<mj-image padding-top="10px" width="160px" href="#" src="https://www.emailimagecdnrvf6.com/uybj8opkts/en_us/images/5f12fb0c09445-1595079436.038.png" alt="Download Amazon Store" />
+</mj-column>
+<mj-column width="200px">
+<mj-image width="160px" href="#" src="https://www.emailimagecdnrvf6.com/uybj8opkts/en_us/images/5f12f9794eb44-1595079033.3224.png
+" alt="Download Google Store" />
+<mj-image padding-top="10px" width="160px" href="#" src="https://www.emailimagecdnrvf6.com/uybj8opkts/en_us/images/5f12fb1744f07-1595079447.2824.png" alt="Download Roku Store" />
+</mj-column>
+</mj-section>
+<!-- footer -->
+<mj-section>
+<mj-column>
+<mj-text font-weight="300" font-size="13px" letter-spacing="0.3px" align="center" color="#65666A">
+    © 2022 Peloton, Peloton Interactive, Inc. All rights reserved.<br>
+    441 9th Ave, 6th Fl, New York, NY 10001 United States<br>
+    <a href="https://www.google.com/" target="_blank" class="link-nostyle" style="text-decoration:underline">Unsubscribe</a>
+</mj-text>
+</mj-column> 
+</mj-section>
+  </mj-body>
+</mjml>
