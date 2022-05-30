@@ -34,10 +34,8 @@
       <!-- img header -->
       <mj-section>
       <mj-column width="600px">
-          <mj-image width="550px" src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/61f99887b5010-1643747463.7414.png" alt="Tap into Motivation" />
-          <mj-text text-transform="uppercase" font-weight="1000" font-size="60px" letter-spacing="8px" align="left" line-height="70px"> 
-              <div class="text-title">Tap into <br> Motivation</div>
-          </mj-text>
+          <mj-image width="600px" src="https://www.emailimagecdnrvf6.com/m5kl73tpfe/en_us/images/62221e46a0fa5-1646403142.6594.gif" alt="Tap into Motivation" />
+
       </mj-column>
       </mj-section>
       <!-- info section -->
